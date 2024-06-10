@@ -1,6 +1,8 @@
 # labelsToValues
 SPSS Python macro to create a new variable equal to the labels of another variable
 
+This and other SPSS Python Extension functions can be found at http://www.stat-help.com/python.html
+
 ## Usage
 **labelsToValues(labelVar, valueVar)**
 * "labelVar" is the name of a variable with numeric indicators attached to values.
